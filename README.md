@@ -1,0 +1,2 @@
+# EserciziDOMjudge
+Voglio spararmi
